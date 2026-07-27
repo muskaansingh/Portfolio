@@ -1,11 +1,11 @@
 # Hi there, I'm Muskaan Singh 👋
 
-### Frontend Developer | React.js & Next.js Specialist
+### Senior Frontend Developer | React.js • Next.js • TypeScript ⭐
 
-I am a passionate Frontend Developer with over 5 years of experience in building scalable, high-performance web applications. I specialize in creating user-centric interfaces that are not only visually appealing but also optimized for speed and accessibility.
+I’m a Senior Frontend Developer with 5+ years of experience building scalable, high-performance web applications using React.js, Next.js, and TypeScript. I enjoy creating intuitive user experiences, designing reusable frontend architectures, and optimizing applications for performance, accessibility, and scalability.
 
 - 🔭 I’m currently working at **Prepladder (By Unacademy)**
-- 🌱 I’m constantly exploring the latest in the **React and Next.js ecosystem**
+- 🌱 Learning **AI-powered development, advanced TypeScript, and modern frontend architecture.**
 - ⚡ Fun fact: I love optimizing Webpack bundles to make websites lightning fast!
 
 ---
@@ -34,6 +34,15 @@ I am a passionate Frontend Developer with over 5 years of experience in building
 ![REST API](https://img.shields.io/badge/REST%20API-blue?style=for-the-badge)
 ![SEO](https://img.shields.io/badge/SEO-Optimization-orange?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-lightgrey?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+### 🧪 Testing
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 ---
 
@@ -87,4 +96,4 @@ I am a passionate Frontend Developer with over 5 years of experience in building
 ![Muskaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskaansingh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskaansingh&layout=compact&theme=radical)
 
-# React + TypeScript + Vite
+![](https://komarev.com/ghpvc/?username=muskaansingh&style=for-the-badge)
